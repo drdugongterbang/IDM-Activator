@@ -77,12 +77,13 @@ Inti dari proteksi aktivator ini adalah fungsi `lock_key` yang:
 
 1. **Install IDM** terlebih dahulu (gunakan `idman642build7.exe` atau download versi terbaru dari [situs resmi](https://www.internetdownloadmanager.com/download.html))
 2. Pastikan **terkoneksi internet**
-3. **Double-click** `IDM Activator by dugong.cmd`
-4. Saat muncul UAC prompt, klik **YES**
-5. Pilih menu **[1] Aktivasi IDM Anda**
-6. Masukkan nama (atau tekan Enter untuk default)
-7. Tunggu proses selesai — jika berhasil akan tertulis **"IDM Berhasil diaktivasi"**
-8. Buka IDM, seharusnya sudah full version
+3. Pastikan Firewall mati
+4. **Double-click** `IDM Activator by dugong.cmd`
+5. Saat muncul UAC prompt, klik **YES**
+6. Pilih menu **[1] Aktivasi IDM Anda**
+7. Masukkan nama (atau tekan Enter untuk default)
+8. Tunggu proses selesai — jika berhasil akan tertulis **"IDM Berhasil diaktivasi"**
+9. Buka IDM, seharusnya sudah full version
 
 ### Reset Trial / Fix Fake Serial
 
